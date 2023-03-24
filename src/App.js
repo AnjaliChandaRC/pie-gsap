@@ -7,7 +7,7 @@ import SectionThree from "./components/SectionThree";
 function App() {
   return (
     <>
-      <SectionOne />
+      {/* <SectionOne /> */}
       <SectionTwo />
       <SectionThree />
     </>
