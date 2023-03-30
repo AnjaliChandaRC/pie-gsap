@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import SectionOne from "./components/SectionOne";
 import SectionTwo from "./components/SectionTwo";
 import SectionThree from "./components/SectionThree";
+import SlideAnimation from "./components/SlideAnimation";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* <SectionOne /> */}
       <SectionTwo />
       <SectionThree />
+      <SlideAnimation />
     </>
   );
 }
